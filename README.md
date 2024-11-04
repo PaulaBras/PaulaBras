@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Kekw</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Paul
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/paultertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paultertv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paul-à-brassard-b54934248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-à-brassard-b54934248" height="30" width="40" /></a>
-<a href="https://discord.gg/153051362513518592" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="153051362513518592" height="30" width="40" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.pabr.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-à-brassard-b54934248)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/153051362513518592)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulabras&show_icons=true&locale=en&layout=compact" alt="paulabras" /></p>
+## About Me
+Software developer passionate about creating efficient and elegant solutions. I work with modern web technologies and always eager to learn new things.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulabras&show_icons=true&locale=en" alt="paulabras" /></p>
+## Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paulabras&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/paulabras)
+
+</div>
